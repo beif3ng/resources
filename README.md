@@ -101,9 +101,7 @@ A curated list of resources by [@beif3ng](https://github.com/beif3ng).
 
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) — Audio/video downloader for Android using yt-dlp
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) — Privacy-focused Android keyboard
-- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) — Android app for streaming and downloading media
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) — Android app for applying ReVanced patches
-- [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) — Android OTA payload dumper
 
 ## Windows
 
@@ -150,8 +148,6 @@ A curated list of resources by [@beif3ng](https://github.com/beif3ng).
 - [juanfont/headscale](https://github.com/juanfont/headscale) — Self-hosted Tailscale control server
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) — Self-hosted uptime monitoring tool
 - [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) — Curated list of open-source apps for homelabs
-- [mvo5/unattended-upgrades](https://github.com/mvo5/unattended-upgrades) — Automatic security upgrades for apt-based systems
-- [openRin/Rin](https://github.com/openRin/Rin) — Edge-native blog platform built on Cloudflare Workers
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) — Self-hosted remote desktop alternative to TeamViewer
 - [TwiN/gatus](https://github.com/TwiN/gatus) — Self-hosted developer status page with alerting
 
@@ -174,12 +170,8 @@ A curated list of resources by [@beif3ng](https://github.com/beif3ng).
 ### Developer
 
 - [3b1b/manim](https://github.com/3b1b/manim) — Python animation engine for math visualizations
-- [acaudwell/Gource](https://github.com/acaudwell/Gource) — Git repository visualization tool
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) — Collection of online tools for developers
-- [daijro/camoufox](https://github.com/daijro/camoufox) — Anti-detect browser
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) — Offline developer utility toolkit
-- [star-history/star-history](https://github.com/star-history/star-history) — GitHub star history graph
-- [Turtlecute33/adblocktest](https://github.com/Turtlecute33/adblocktest) — Tool to test ad-blockers and DNS filters
 
 ### Productivity
 
