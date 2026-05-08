@@ -55,7 +55,6 @@ A curated list of resources by [@beif3ng](https://github.com/beif3ng).
 - [Fechin/reference](https://github.com/Fechin/reference) — Quick reference cheat sheets for developers
 - [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes) — Collection of .gitattributes templates
 - [github/gitignore](https://github.com/github/gitignore) — Collection of .gitignore templates
-- [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) — Opinionated Django project styleguide
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) — Modern alternatives to common Unix commands
 - [jakegut/resume](https://github.com/jakegut/resume) — Minimal LaTeX resume template
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) — Command-line fluency guide
@@ -138,7 +137,6 @@ A curated list of resources by [@beif3ng](https://github.com/beif3ng).
 
 ## Self-hosting
 
-- [abint7/free-domains](https://github.com/abint7/free-domains) — Free subdomains for personal and open-source projects
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — Curated list of self-hostable network services and web apps
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) — DNS server that maps embedded IP addresses in hostnames
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) — Free domains for personal and open-source projects
