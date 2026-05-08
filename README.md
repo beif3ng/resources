@@ -36,7 +36,6 @@ A curated list of resources by [@beif3ng](https://github.com/beif3ng).
 ### Courses
 
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) — Learning resources for software engineers
-- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) — Curated list of free courses with certifications
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) — Video course on neural networks from scratch
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) — Beginner course on data science fundamentals
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) — Beginner course on generative AI concepts and tools
