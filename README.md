@@ -137,6 +137,7 @@ A curated list of resources by [@beif3ng](https://github.com/beif3ng).
 ## Self-hosting
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — Curated list of self-hostable network services and web apps
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX) — Self-hosted file converter supporting 1000+ formats
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) — DNS server that maps embedded IP addresses in hostnames
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) — Free domains for personal and open-source projects
 - [juanfont/headscale](https://github.com/juanfont/headscale) — Self-hosted Tailscale control server
