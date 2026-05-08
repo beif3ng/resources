@@ -94,7 +94,6 @@ A curated list of resources by [@beif3ng](https://github.com/beif3ng).
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) — Markdown renderer for the terminal
 - [micro-editor/micro](https://github.com/micro-editor/micro) — Modern terminal-based text editor
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) — Auto-corrects previous console commands
-- [spicetify/cli](https://github.com/spicetify/cli) — Command-line tool to customize Spotify client
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) — Collaborative cheatsheets for console commands
 
 ## Android
@@ -112,7 +111,6 @@ A curated list of resources by [@beif3ng](https://github.com/beif3ng).
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) — Bulk application uninstaller for Windows
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) — Open-source Windows and Office activation scripts
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) — Windows Package Manager CLI
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) — Scripts to build a trimmed-down Windows 11 image
 - [pbatard/rufus](https://github.com/pbatard/rufus) — Bootable USB drive creation utility
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) — PowerShell script to debloat and customize Windows 11
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) — Bootable USB solution supporting multiple ISO files
@@ -144,7 +142,6 @@ A curated list of resources by [@beif3ng](https://github.com/beif3ng).
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — Curated list of self-hostable network services and web apps
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) — DNS server that maps embedded IP addresses in hostnames
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) — Free domains for personal and open-source projects
-- [is-a-dev/register](https://github.com/is-a-dev/register) — Free .is-a.dev subdomains for developers
 - [juanfont/headscale](https://github.com/juanfont/headscale) — Self-hosted Tailscale control server
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) — Self-hosted uptime monitoring tool
 - [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) — Curated list of open-source apps for homelabs
@@ -162,7 +159,6 @@ A curated list of resources by [@beif3ng](https://github.com/beif3ng).
 
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) — Real-time anime video upscaling shader
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) — Media downloader for various platforms
-- [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) — Automatic headphone equalization from frequency responses
 - [nari-labs/dia](https://github.com/nari-labs/dia) — TTS model for realistic dialogue generation
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) — Open-source AI image upscaler
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) — Feature-rich command-line audio/video downloader
