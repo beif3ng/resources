@@ -1,6 +1,9 @@
 # resources
 
-A curated list of resources by [@beif3ng](https://github.com/beif3ng).
+> The harbor is charted. Now sail.
+
+A curated list of resources and tools for anyone getting into IT/CS.
+No bloat — only what's genuinely useful and easy to start with.
 
 ## Contents
 
