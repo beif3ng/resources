@@ -176,3 +176,4 @@ No bloat — only what's genuinely useful and easy to start with.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) — Virtual whiteboard for hand-drawn diagrams
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) — Display and control your Android device
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — Open-source screen recording and demo tool
+- [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) — 11-color Palette Generator and API for Tailwind CSS
