@@ -121,6 +121,7 @@ No bloat — only what's genuinely useful and easy to start with.
 - [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI) — Fully customizable desktop environment for Windows
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) — Tiling window manager for Windows inspired by i3wm
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) — Tiling window manager for Windows
+- [Maplespe/ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) — Background blur, acrylic or mica effect for Windows File Explorer
 - [moudey/Shell](https://github.com/moudey/Shell) — Context menu manager for Windows File Explorer
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) — Customization marketplace for Windows programs
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) — Makes the Windows taskbar translucent
