@@ -2,8 +2,8 @@
 
 > Catch the wind and explore.
 
-A curated list of resources and tools for anyone getting into IT/CS.  
-No bloat — only what's genuinely useful and easy to start with.
+Curated list of resources and tools for anyone getting into IT/CS.  
+No bloat — only what's genuinely useful.
 
 ## Contents
 
