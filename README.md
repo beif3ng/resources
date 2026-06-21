@@ -2,7 +2,7 @@
 
 > Catch the wind and explore.
 
-Curated list of resources and tools for anyone getting into IT/CS.  
+Curated list of resources and tools for tech and daily use.
 No bloat — only what's genuinely useful.
 
 ## Contents
