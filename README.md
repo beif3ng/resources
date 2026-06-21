@@ -39,6 +39,7 @@ No bloat — only what's genuinely useful.
 ### Courses
 
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) — Learning resources for software engineers
+- [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) — Full stack web development course by the University of Helsinki
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) — Video course on neural networks from scratch
 - [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) — Beginner course on data science fundamentals
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) — Beginner course on generative AI concepts and tools
@@ -108,7 +109,9 @@ No bloat — only what's genuinely useful.
 ### Setup
 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) — All-in-one Windows utility for setup, tweaks, and fixes
+- [Cur10s1tyByt3/GenP](https://github.com/Cur10s1tyByt3/GenP) — Archival source materials and documentation for GenP Adobe patcher
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) — GUI frontend for Windows package managers
+- [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) — Tool to fully remove Windows Defender on Windows 8–11
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) — Bulk application uninstaller for Windows
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) — Open-source Windows and Office activation scripts
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) — Windows Package Manager CLI
@@ -170,10 +173,14 @@ No bloat — only what's genuinely useful.
 - [3b1b/manim](https://github.com/3b1b/manim) — Python animation engine for math visualizations
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) — Collection of online tools for developers
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) — Offline developer utility toolkit
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — API for web search, scraping, and interaction at scale
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) — Diagram generation from markdown-like text syntax
 - [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) — 11-color Palette Generator and API for Tailwind CSS
 
 ### Productivity
 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) — Virtual whiteboard for hand-drawn diagrams
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) — Display and control your Android device
+- [jgraph/drawio](https://github.com/jgraph/drawio) — Client-side editor for general diagramming
+- [readest/readest](https://github.com/readest/readest) — Cross-platform ebook reader with a modern interface
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — Open-source screen recording and demo tool
