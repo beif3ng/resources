@@ -181,6 +181,6 @@ No bloat — only what's genuinely useful.
 
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) — Virtual whiteboard for hand-drawn diagrams
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) — Display and control your Android device
+- [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) — Open-source screen recording and demo tool
 - [jgraph/drawio](https://github.com/jgraph/drawio) — Client-side editor for general diagramming
 - [readest/readest](https://github.com/readest/readest) — Cross-platform ebook reader with a modern interface
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) — Open-source screen recording and demo tool
