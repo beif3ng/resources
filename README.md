@@ -59,9 +59,8 @@ No bloat — only what's genuinely useful.
 - [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes) — Collection of .gitattributes templates
 - [github/gitignore](https://github.com/github/gitignore) — Collection of .gitignore templates
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) — Modern alternatives to common Unix commands
-- [jakegut/resume](https://github.com/jakegut/resume) — Minimal LaTeX resume template
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) — Command-line fluency guide
-- [sb2nov/resume](https://github.com/sb2nov/resume) — LaTeX resume template for software developers
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) — CV/resume generator from YAML to PDF
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) — List of free resources and services for developers
 
 ## Web
