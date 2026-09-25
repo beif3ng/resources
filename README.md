@@ -29,17 +29,12 @@ No bloat — only what's genuinely useful.
 - [ossu/computer-science](https://github.com/ossu/computer-science) — Self-paced Computer Science curriculum
 - [ossu/data-science](https://github.com/ossu/data-science) — Self-paced Data Science curriculum
 - [ossu/math](https://github.com/ossu/math) — Self-paced Mathematics curriculum
-- [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) — Comprehensive mathematics roadmap
 
 ### Courses
 
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) — Learning resources for software engineers
 - [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) — Full stack web development course by the University of Helsinki
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) — Video course on neural networks from scratch
-- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) — Beginner course on data science fundamentals
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) — Beginner course on generative AI concepts and tools
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) — Beginner course on classical machine learning
-- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) — Beginner course on HTML, CSS and JavaScript
 
 ### Practice
 
