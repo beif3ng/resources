@@ -35,6 +35,7 @@ No bloat — only what's genuinely useful.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) — Learning resources for software engineers
 - [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) — Full stack web development course by the University of Helsinki
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) — Video course on neural networks from scratch
+- [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) — Course on the practical tools missing from a CS curriculum: shell, git, debugging, editors
 
 ### Practice
 
@@ -97,11 +98,11 @@ No bloat — only what's genuinely useful.
 
 ### Setup
 
+- [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) — Bulk application uninstaller for Windows
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) — All-in-one Windows utility for setup, tweaks, and fixes
 - [Cur10s1tyByt3/GenP](https://github.com/Cur10s1tyByt3/GenP) — Archival source materials and documentation for GenP Adobe patcher
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) — GUI frontend for Windows package managers
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) — Tool to fully remove Windows Defender on Windows 8–11
-- [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) — Bulk application uninstaller for Windows
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) — Open-source Windows and Office activation scripts
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) — Windows Package Manager CLI
 - [pbatard/rufus](https://github.com/pbatard/rufus) — Bootable USB drive creation utility
@@ -133,18 +134,17 @@ No bloat — only what's genuinely useful.
 ## Self-hosting
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — Curated list of self-hostable network services and web apps
+- [AwesomeHomelab/awesome-homelab](https://github.com/AwesomeHomelab/awesome-homelab) — Curated list of open-source apps for homelabs
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) — Self-hosted file converter supporting 1000+ formats
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) — DNS server that maps embedded IP addresses in hostnames
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) — Free domains for personal and open-source projects
 - [juanfont/headscale](https://github.com/juanfont/headscale) — Self-hosted Tailscale control server
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) — Self-hosted uptime monitoring tool
-- [miantiao-me/awesome-homelab](https://github.com/miantiao-me/awesome-homelab) — Curated list of open-source apps for homelabs
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) — Self-hosted remote desktop alternative to TeamViewer
 - [TwiN/gatus](https://github.com/TwiN/gatus) — Self-hosted developer status page with alerting
 
 ## Fun
 
-- [chaosgoo/mcompass](https://github.com/chaosgoo/mcompass) — DIY real-world Minecraft compass
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) — API that returns random rejection reasons
 
 ## Utils
