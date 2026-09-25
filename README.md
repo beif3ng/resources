@@ -25,15 +25,10 @@ No bloat — only what's genuinely useful.
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) — Open-source curriculum for learning math, programming, and CS
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) — Self-paced CS study plan for software engineering interviews
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) — Interactive roadmaps for developers
 - [ossu/computer-science](https://github.com/ossu/computer-science) — Self-paced Computer Science curriculum
 - [ossu/data-science](https://github.com/ossu/data-science) — Self-paced Data Science curriculum
 - [ossu/math](https://github.com/ossu/math) — Self-paced Mathematics curriculum
-
-### Roadmaps
-
-- [DevOpsHiveHQ/dynamic-devops-roadmap](https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap) — Agile-style DevOps learning roadmap
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) — DevOps roadmap with learning resources
-- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) — Interactive roadmaps for developers
 - [TalalAlrawajfeh/mathematics-roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap) — Comprehensive mathematics roadmap
 
 ### Courses
