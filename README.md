@@ -5,6 +5,8 @@
 Curated list of resources and tools for tech and daily use.\
 No bloat — only what's genuinely useful.
 
+🎓 — featured in [Missing Semester](https://missing.csail.mit.edu/2026/), links to the lecture
+
 ## Contents
 
 - [Learning](#learning)
@@ -32,7 +34,6 @@ No bloat — only what's genuinely useful.
 
 ### Courses
 
-- [charlax/professional-programming](https://github.com/charlax/professional-programming) — Learning resources for software engineers
 - [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) — Full stack web development course by the University of Helsinki
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) — Video course on neural networks from scratch
 - [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) — Course on the practical tools missing from a CS curriculum: shell, git, debugging, editors
@@ -45,13 +46,11 @@ No bloat — only what's genuinely useful.
 
 ## Dev References
 
+- [charlax/professional-programming](https://github.com/charlax/professional-programming) — Learning resources for software engineers
 - [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) — Comparisons and histories across computing and technology
 - [Fechin/reference](https://github.com/Fechin/reference) — Quick reference cheat sheets for developers
 - [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes) — Collection of .gitattributes templates
 - [github/gitignore](https://github.com/github/gitignore) — Collection of .gitignore templates
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) — Modern alternatives to common Unix commands
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) — Command-line fluency guide
-- [rendercv/rendercv](https://github.com/rendercv/rendercv) — CV/resume generator from YAML to PDF
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) — List of free resources and services for developers
 
 ## Web
@@ -65,33 +64,42 @@ No bloat — only what's genuinely useful.
 
 ### Shells & Prompt
 
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) — User-friendly command line shell
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) — User-friendly command line shell [🎓](https://missing.csail.mit.edu/2026/command-line-environment/)
 - [starship/starship](https://github.com/starship/starship) — Minimal and customizable shell prompt
 
 ### File & Navigation
 
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) — Smarter cd command with frecency-based navigation
-- [eza-community/eza](https://github.com/eza-community/eza) — Modern replacement for ls
-- [junegunn/fzf](https://github.com/junegunn/fzf) — Command-line fuzzy finder
-- [sharkdp/bat](https://github.com/sharkdp/bat) — cat replacement with syntax highlighting
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) — Smarter cd command with frecency-based navigation [🎓](https://missing.csail.mit.edu/2026/course-shell/)
+- [eza-community/eza](https://github.com/eza-community/eza) — Modern replacement for ls [🎓](https://missing.csail.mit.edu/2026/course-shell/)
+- [junegunn/fzf](https://github.com/junegunn/fzf) — Command-line fuzzy finder [🎓](https://missing.csail.mit.edu/2026/command-line-environment/)
+- [sharkdp/bat](https://github.com/sharkdp/bat) — cat replacement with syntax highlighting [🎓](https://missing.csail.mit.edu/2026/course-shell/)
 
 ### System
 
-- [aristocratos/btop](https://github.com/aristocratos/btop) — Terminal resource monitor
+- [aristocratos/btop](https://github.com/aristocratos/btop) — Terminal resource monitor [🎓](https://missing.csail.mit.edu/2026/debugging-profiling/)
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) — Fast system information tool
 
-### Tools
+### Dev
 
-- [astral-sh/uv](https://github.com/astral-sh/uv) — Fast Python package and project manager
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) — Markdown renderer for the terminal
+- [astral-sh/uv](https://github.com/astral-sh/uv) — Fast Python package and project manager [🎓](https://missing.csail.mit.edu/2026/shipping-code/)
 - [micro-editor/micro](https://github.com/micro-editor/micro) — Modern terminal-based text editor
+
+### Helpers
+
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) — Markdown renderer for the terminal
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) — Auto-corrects previous console commands
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) — Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) — Collaborative cheatsheets for console commands [🎓](https://missing.csail.mit.edu/2026/command-line-environment/)
+
+### Guides
+
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) — Modern alternatives to common Unix commands
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) — Command-line fluency guide
 
 ## Android
 
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) — Audio/video downloader for Android using yt-dlp
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) — Privacy-focused Android keyboard
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) — Display and control your Android device
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) — Android app for applying ReVanced patches
 
 ## Windows
@@ -163,13 +171,16 @@ No bloat — only what's genuinely useful.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) — Collection of online tools for developers
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) — Offline developer utility toolkit
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — API for web search, scraping, and interaction at scale
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) — Diagram generation from markdown-like text syntax
 - [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) — 11-color Palette Generator and API for Tailwind CSS
+
+### Diagrams
+
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) — Virtual whiteboard for hand-drawn diagrams
+- [jgraph/drawio](https://github.com/jgraph/drawio) — Client-side editor for general diagramming
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) — Diagram generation from markdown-like text syntax
 
 ### Productivity
 
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) — Virtual whiteboard for hand-drawn diagrams
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) — Display and control your Android device
 - [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) — Open-source screen recording and demo tool
-- [jgraph/drawio](https://github.com/jgraph/drawio) — Client-side editor for general diagramming
 - [readest/readest](https://github.com/readest/readest) — Cross-platform ebook reader with a modern interface
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) — CV/resume generator from YAML to PDF
