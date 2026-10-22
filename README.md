@@ -108,13 +108,13 @@ No bloat — only what's genuinely useful.
 
 - [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) — Bulk application uninstaller for Windows
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) — All-in-one Windows utility for setup, tweaks, and fixes
-- [Cur10s1tyByt3/GenP](https://github.com/Cur10s1tyByt3/GenP) — Archival source materials and documentation for GenP Adobe patcher
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) — GUI frontend for Windows package managers
 - [ionuttbara/windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover) — Tool to fully remove Windows Defender on Windows 8–11
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) — Open-source Windows and Office activation scripts
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) — Windows Package Manager CLI
 - [pbatard/rufus](https://github.com/pbatard/rufus) — Bootable USB drive creation utility
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) — PowerShell script to debloat and customize Windows 11
+- [TheMythologist/GenP](https://github.com/TheMythologist/GenP) — GenP Adobe patcher source with CI-built, checksum-verified releases
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) — Bootable USB solution supporting multiple ISO files
 
 ### Customization
