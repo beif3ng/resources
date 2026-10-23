@@ -47,6 +47,7 @@ No bloat — only what's genuinely useful.
 ## Dev References
 
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) — Learning resources for software engineers
+- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) — Laws, theories, and principles for developers
 - [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) — Comparisons and histories across computing and technology
 - [Fechin/reference](https://github.com/Fechin/reference) — Quick reference cheat sheets for developers
 - [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes) — Collection of .gitattributes templates
@@ -83,6 +84,7 @@ No bloat — only what's genuinely useful.
 
 - [astral-sh/uv](https://github.com/astral-sh/uv) — Fast Python package and project manager [🎓](https://missing.csail.mit.edu/2026/shipping-code/)
 - [micro-editor/micro](https://github.com/micro-editor/micro) — Modern terminal-based text editor
+- [Schniz/fnm](https://github.com/Schniz/fnm) — Fast Node.js version manager
 
 ### Helpers
 
@@ -97,6 +99,7 @@ No bloat — only what's genuinely useful.
 
 ## Android
 
+- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) — Weather app with 50+ data sources
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) — Audio/video downloader for Android using yt-dlp
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) — Privacy-focused Android keyboard
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) — Display and control your Android device
@@ -148,6 +151,7 @@ No bloat — only what's genuinely useful.
 - [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) — Free domains for personal and open-source projects
 - [juanfont/headscale](https://github.com/juanfont/headscale) — Self-hosted Tailscale control server
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) — Self-hosted uptime monitoring tool
+- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) — Script to benchmark Linux server disk, network, and CPU
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) — Self-hosted remote desktop alternative to TeamViewer
 - [TwiN/gatus](https://github.com/TwiN/gatus) — Self-hosted developer status page with alerting
 
@@ -161,7 +165,9 @@ No bloat — only what's genuinely useful.
 
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) — Real-time anime video upscaling shader
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) — Media downloader for various platforms
+- [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) — Web UI for generating subtitles with Whisper
 - [nari-labs/dia](https://github.com/nari-labs/dia) — TTS model for realistic dialogue generation
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) — Open-source CapCut alternative
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) — Open-source AI image upscaler
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) — Feature-rich command-line audio/video downloader
 
@@ -170,6 +176,7 @@ No bloat — only what's genuinely useful.
 - [3b1b/manim](https://github.com/3b1b/manim) — Python animation engine for math visualizations
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) — Collection of online tools for developers
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) — Offline developer utility toolkit
+- [djlint/djLint](https://github.com/djlint/djLint) — Formatter and linter for HTML templates (Jinja, Django, and more)
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — API for web search, scraping, and interaction at scale
 - [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) — 11-color Palette Generator and API for Tailwind CSS
 
@@ -182,5 +189,6 @@ No bloat — only what's genuinely useful.
 ### Productivity
 
 - [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) — Open-source screen recording and demo tool
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) — Screen recording and live streaming
 - [readest/readest](https://github.com/readest/readest) — Cross-platform ebook reader with a modern interface
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) — CV/resume generator from YAML to PDF
