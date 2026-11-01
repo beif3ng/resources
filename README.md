@@ -41,25 +41,32 @@ No bloat — only what's genuinely useful.
 ### Practice
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) — Tutorials for recreating popular technologies from scratch
+- [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) — Interactive git visualization and tutorial
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) — Curated list of project-based tutorials
 - [ronreiter/interactive-tutorials](https://github.com/ronreiter/interactive-tutorials) — Interactive coding tutorials
+- [tensorflow/playground](https://github.com/tensorflow/playground) — Play with a neural network in the browser
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) — Algorithms and data structures implemented in Python
 
 ## Dev References
 
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) — Quick language tours written as annotated code
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) — Learning resources for software engineers
 - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) — Laws, theories, and principles for developers
 - [eylenburg/eylenburg.github.io](https://github.com/eylenburg/eylenburg.github.io) — Comparisons and histories across computing and technology
 - [Fechin/reference](https://github.com/Fechin/reference) — Quick reference cheat sheets for developers
 - [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes) — Collection of .gitattributes templates
 - [github/gitignore](https://github.com/github/gitignore) — Collection of .gitignore templates
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) — Computer science papers to read and discuss
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) — List of free resources and services for developers
 
 ## Web
 
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) — Animated, interactive React components
 - [django/django](https://github.com/django/django) — Full-featured Python web framework
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) — High-performance Python web framework
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) — JavaScript animation library
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) — Python library for building interactive data apps
+- [vuejs/vitepress](https://github.com/vuejs/vitepress) — Vite and Vue powered static site generator for docs
 
 ## CLI Tools
 
@@ -170,6 +177,7 @@ No bloat — only what's genuinely useful.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) — Open-source CapCut alternative
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) — Media center with addon-based streaming and Trakt sync
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) — Open-source AI image upscaler
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) — Local, in-browser file converter
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) — Feature-rich command-line audio/video downloader
 
 ### Developer
