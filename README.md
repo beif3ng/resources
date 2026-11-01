@@ -186,7 +186,6 @@ No bloat — only what's genuinely useful.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) — Collection of online tools for developers
 - [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) — Offline developer utility toolkit
 - [djlint/djLint](https://github.com/djlint/djLint) — Formatter and linter for HTML templates (Jinja, Django, and more)
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — API for web search, scraping, and interaction at scale
 - [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) — 11-color Palette Generator and API for Tailwind CSS
 
 ### Diagrams
