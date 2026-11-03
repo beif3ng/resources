@@ -65,6 +65,8 @@ No bloat — only what's genuinely useful.
 - [django/django](https://github.com/django/django) — Full-featured Python web framework
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) — High-performance Python web framework
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) — JavaScript animation library
+- [pheralb/svgl](https://github.com/pheralb/svgl) — Color SVG brand logos with light and dark variants
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) — Monochrome SVG brand icons with brand colors (CC0)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) — Python library for building interactive data apps
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) — Vite and Vue powered static site generator for docs
 
