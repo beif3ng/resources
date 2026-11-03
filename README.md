@@ -111,6 +111,7 @@ No bloat — only what's genuinely useful.
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) — Weather app with 50+ data sources
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) — Audio/video downloader for Android using yt-dlp
 - [futo-org/android-keyboard](https://github.com/futo-org/android-keyboard) — Privacy-focused Android keyboard
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) — Debloat Android/Google TV over ADB and swap in a clean launcher, with one-line restore
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) — Display and control your Android device
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) — Android app for applying ReVanced patches
 
