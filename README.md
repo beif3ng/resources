@@ -203,3 +203,7 @@ No bloat — only what's genuinely useful.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) — Screen recording and live streaming
 - [readest/readest](https://github.com/readest/readest) — Cross-platform ebook reader with a modern interface
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) — CV/resume generator from YAML to PDF
+
+### Browser
+
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) — Wide-spectrum content blocker (Lite version for Chrome: uBlockOrigin/uBOL-home)
