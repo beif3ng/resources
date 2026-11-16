@@ -178,6 +178,7 @@ No bloat — only what's genuinely useful.
 - [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) — Web UI for generating subtitles with Whisper
 - [nari-labs/dia](https://github.com/nari-labs/dia) — TTS model for realistic dialogue generation
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) — Open-source CapCut alternative
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) — Ad-free open-source BitTorrent client
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) — Media center with addon-based streaming and Trakt sync
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) — Open-source AI image upscaler
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) — Local, in-browser file converter
