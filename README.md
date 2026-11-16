@@ -114,6 +114,7 @@ No bloat — only what's genuinely useful.
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) — Debloat Android/Google TV over ADB and swap in a clean launcher, with one-line restore
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) — Display and control your Android device
 - [ReVanced/revanced-manager](https://github.com/ReVanced/revanced-manager) — Android app for applying ReVanced patches
+- [termux/termux-app](https://github.com/termux/termux-app) — Terminal emulator and Linux environment for Android
 
 ## Windows
 
