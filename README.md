@@ -213,6 +213,7 @@ No bloat — only what's genuinely useful.
 - [espanso/espanso](https://github.com/espanso/espanso) — Privacy-first, cross-platform text expander
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) — Cross-platform screenshot tool with annotation (on Windows, ShareX has more features)
 - [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) — Open-source screen recording and demo tool
+- [localsend/localsend](https://github.com/localsend/localsend) — Cross-platform AirDrop alternative for sharing files over the local network
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) — Screen recording and live streaming
 - [readest/readest](https://github.com/readest/readest) — Cross-platform ebook reader with a modern interface
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) — CV/resume generator from YAML to PDF
