@@ -140,6 +140,7 @@ No bloat — only what's genuinely useful.
 - [moudey/Shell](https://github.com/moudey/Shell) — Context menu manager for Windows File Explorer
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) — Customization marketplace for Windows programs
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) — Makes the Windows taskbar translucent
+- [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) — Restores the classic taskbar, Start menu and Explorer on Windows 11
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) — Monitor brightness manager for Windows
 
 ### Apps
@@ -148,9 +149,13 @@ No bloat — only what's genuinely useful.
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) — Per-app volume control for Windows
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) — App launcher and file search for Windows
 - [henrypp/memreduct](https://github.com/henrypp/memreduct) — Lightweight real-time memory management tool for Windows
+- [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) — Disk health monitor based on S.M.A.R.T. data
 - [M2Team/NanaZip](https://github.com/M2Team/NanaZip) — Modern 7-Zip derivative for Windows
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) — Set of Windows power-user utilities (window zones, bulk rename, color picker, and more)
 - [microsoft/terminal](https://github.com/microsoft/terminal) — Windows Terminal
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) — Cross-platform PowerShell
+- [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) — macOS-style spacebar file preview for Windows
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) — Screenshot, screen recording and upload tool with OCR (cross-platform alternative: Flameshot)
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) — File conversion and compression via Windows context menu
 - [windirstat/windirstat](https://github.com/windirstat/windirstat) — Disk usage analyzer with treemap visualization for Windows
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) — Advanced task manager and system monitor, successor of Process Hacker
@@ -176,7 +181,9 @@ No bloat — only what's genuinely useful.
 
 ### Media
 
+- [audacity/audacity](https://github.com/audacity/audacity) — Open-source audio editor and recorder
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) — Real-time anime video upscaling shader
+- [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) — Fast image viewer for 90+ formats
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) — Media downloader for various platforms
 - [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) — Web UI for generating subtitles with Whisper
 - [nari-labs/dia](https://github.com/nari-labs/dia) — TTS model for realistic dialogue generation
@@ -203,6 +210,8 @@ No bloat — only what's genuinely useful.
 
 ### Productivity
 
+- [espanso/espanso](https://github.com/espanso/espanso) — Privacy-first, cross-platform text expander
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) — Cross-platform screenshot tool with annotation (on Windows, ShareX has more features)
 - [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) — Open-source screen recording and demo tool
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) — Screen recording and live streaming
 - [readest/readest](https://github.com/readest/readest) — Cross-platform ebook reader with a modern interface
