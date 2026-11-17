@@ -152,6 +152,7 @@ No bloat — only what's genuinely useful.
 - [microsoft/terminal](https://github.com/microsoft/terminal) — Windows Terminal
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) — Cross-platform PowerShell
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) — File conversion and compression via Windows context menu
+- [windirstat/windirstat](https://github.com/windirstat/windirstat) — Disk usage analyzer with treemap visualization for Windows
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) — Advanced task manager and system monitor, successor of Process Hacker
 
 ## Self-hosting
