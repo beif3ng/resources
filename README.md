@@ -83,6 +83,7 @@ No bloat — only what's genuinely useful.
 - [eza-community/eza](https://github.com/eza-community/eza) — Modern replacement for ls [🎓](https://missing.csail.mit.edu/2026/course-shell/)
 - [junegunn/fzf](https://github.com/junegunn/fzf) — Command-line fuzzy finder [🎓](https://missing.csail.mit.edu/2026/command-line-environment/)
 - [sharkdp/bat](https://github.com/sharkdp/bat) — cat replacement with syntax highlighting [🎓](https://missing.csail.mit.edu/2026/course-shell/)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) — Fast terminal file manager with previews
 
 ### System
 
@@ -92,6 +93,7 @@ No bloat — only what's genuinely useful.
 ### Dev
 
 - [astral-sh/uv](https://github.com/astral-sh/uv) — Fast Python package and project manager [🎓](https://missing.csail.mit.edu/2026/shipping-code/)
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) — Terminal UI for git: staging hunks, commits, interactive rebase
 - [micro-editor/micro](https://github.com/micro-editor/micro) — Modern terminal-based text editor
 - [Schniz/fnm](https://github.com/Schniz/fnm) — Fast Node.js version manager
 
